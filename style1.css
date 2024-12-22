@@ -1,0 +1,16 @@
+style.css */
+h1 {
+    color: #ff4b4b;
+}
+
+
+.stButton > button {
+    color: #ffffff;
+    background-color: #ff4b4b;
+    border-radius: 5px;
+    border: 1px solid #ff4b4b;
+}
+
+/* Add more custom styles as needed
+
+
